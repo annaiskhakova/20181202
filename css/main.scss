@@ -1,0 +1,25 @@
+
+@import "./normalize.css";
+@import "../fonts/fonts.css";
+@import "./config/mixins";
+@import "./config/media";
+@import "./layout/layout";
+
+
+//slick
+@import "../js/slick/slick.css";
+@import "../js/slick/slick-theme.css";
+
+//sections
+@import "./sections/header";
+@import "./sections/we";
+@import "./sections/team";
+@import "./sections/menu";
+@import "./sections/reviews";
+@import "./sections/slider";
+@import "./sections/form";
+@import "./sections/contacts";
+@import "./sections/wheel";
+
+
+
